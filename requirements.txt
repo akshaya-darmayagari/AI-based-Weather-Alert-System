@@ -6,3 +6,4 @@ joblib
 supabase
 python-dotenv
 pytz
+plotly
