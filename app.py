@@ -16,7 +16,7 @@ st.set_page_config(page_title="AI Weather Alert System", layout="wide")
 
 WEATHER_API_KEY = "6f52153195a7db5e7301ebacc675093f"
 # MY_GEMINI_KEY   = "AIzaSyCJioFh39s7J9Ps4Y69rgIm3otRcB8Z2N8"
-MY_GEMINI_KEY   = "AIzaSyB9T6qcs0ywlnQZlHI34Hw4V7dtREPWC6U"
+MY_GEMINI_KEY   = "AIzaSyCUS-Z_Vuc0wQmbMpjKUTdzK1A9XPNy-Cg"
 rf_model = joblib.load("weather_model.pkl")
 
 # Custom SVGs for Chat Avatars (Boxes with Face and Smart Toy)
